@@ -1,0 +1,85 @@
+body{
+    padding: 0%;
+    margin: 0%; 
+    ;
+    
+}
+.logo{
+    color: whitesmoke;
+    font-size: 22px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 100%;
+    background-color: black;
+}
+nav {
+    background-color: rgb(102, 102, 190);
+    height: 80px;   
+    width: 100%;
+    margin: 0px;
+    padding: 0px;   
+}
+
+ul{
+    float: right;  
+}
+li {
+    float:left ;
+    list-style: none;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: 15px;
+    cursor: pointer;
+    font-size: 19px;
+}
+a{
+    text-decoration: none;
+    color: rgb(238, 227, 227);
+}
+a:hover{
+    color: rgb(36, 33, 33);
+    padding: 5px;
+    background-color: white;
+    border-radius: 100%;
+}
+.consulter{
+        border-radius: 50px;
+        width: 20%;
+        padding: 10px;
+        border: none;
+        background-color: #83726e;
+        color: #fff;
+        font-size: 14px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: 0.3s;
+        border-radius: 10px;
+        display: block;
+        margin: 0 auto;
+    
+}
+.centent{
+    background-image: url(IMG-20240410-WA0008.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.c1{
+    text-align: center;
+}
+#H2{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
